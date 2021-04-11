@@ -5,6 +5,8 @@
 <main>
 	<h1>Hello world!</h1>
 
+	<p class="text-red-600">I'm a test of SvelteKit and Tailwind's betas!</p>
+
 	<Counter />
 
 	<p>
